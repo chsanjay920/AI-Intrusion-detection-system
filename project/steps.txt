@@ -1,0 +1,12 @@
+python src/train_model.py
+
+sudo python src/capture.py
+
+nmap -sS 127.0.0.1
+
+Data set: 
+https://www.kaggle.com/datasets/hassan06/nslkdd/data
+
+Installations
+https://nmap.org/download.html#windows
+https://npcap.com/#download
